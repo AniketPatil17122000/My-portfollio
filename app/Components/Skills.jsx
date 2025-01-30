@@ -12,10 +12,7 @@ const Skills = () => {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum
-            aliquid ipsam cupiditate necessitatibus. Nihil, sit voluptatem!
-            Cumque eos, dolores vero unde, neque delectus dicta voluptatum nobis
-            totam nihil, velit animi?
+          I am a full-stack developer with 2.3 years of experience specializing in frontend development using HTML, CSS, JavaScript, React.js, Next.js, and React Native. On the backend, I have expertise in Node.js and Express.js, working with both SQL (MySQL) and NoSQL (MongoDB) databases. I have a basic understanding of Kubernetes and Docker and hands-on experience with Linux. My workflow is supported by tools like GitHub, Azure DevOps, PuTTY, MobaXterm, and SoapUI, enabling efficient development, deployment, and debugging across different environment
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

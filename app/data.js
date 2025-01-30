@@ -1,35 +1,33 @@
 const projects = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "Connectivity Management Platform",
+      subtitle: "React js , Node js",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+        "Developed an enterprise web application featuring login and tab-based navigation tailored to business logic, where our application is used for onboarding users",
+      image: "./cmp.gif",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Jio Enterprise Portal",
+      subtitle: "React js",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reedbarger.com",
+      "Jio Enterprise Portal handles orders related to networking products that start ups or other big companies required at there site . I maigrated this application from Jsp to react js",
+      image: "./jep.gif",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Encapto Wifi",
+      subtitle: "Javascript , bootstrap , jquery",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
+        "This application is made in plane javascript , jquery and Bootstrap. This application is used to access internal wifi of jio system",
+      image: "./encaptowifi2.gif",
+      link: "",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Express Order Application",
+      subtitle: "React js , Tailwind css, Material UI",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "This application used to place order related wifi products.it is a enhancement existing order creation . it is metadat driven application based on JSON it will generate UI",
+      image: "./pocv.gif",
+      link: "",
     },
   ];
 
