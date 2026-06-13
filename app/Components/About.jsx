@@ -13,7 +13,7 @@ const About = () => {
               web applications.
             </h1>
             <p className="mb-8 leading-relaxed">
-            Full stack Developer with 2.8 years of experience in software development at Jio Platform Limited. Specialized in creating user-friendly interfaces using react/next js and building robust backend with node js.
+              Full Stack Developer with 3+ years of experience building scalable web applications. I specialize in React.js and Next.js for crafting intuitive, high-performance interfaces, backed by robust Node.js backend development. I've led frontend development and delivered enterprise-grade applications across product-based and service-based environments.
             </p>
             <div className="flex justify-center">
               <a

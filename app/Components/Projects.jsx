@@ -12,9 +12,8 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-           
-I have worked on multiple applications in my professional experience, where my primary contribution was in frontend development. However, I was also involved in backend development, gaining hands-on experience in both areas.
-          </p>
+  A look at some of the applications I've worked on — primarily focused on frontend development, with hands-on contributions to backend logic and API integration as well.
+</p>
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
